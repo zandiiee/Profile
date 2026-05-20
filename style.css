@@ -1,0 +1,60 @@
+#firstimg {
+  display: block;
+  margin-right: auto;
+}
+.main-header {
+  font-family: Arial, Helvetica, sans-serif;
+  display:block;
+  justify-content: left;
+}
+#welcome {
+  display: block;
+  text-align: end;
+}
+.nav-img {
+  display: block;
+  margin-right: auto;
+  margin-left: 0;
+}
+body {
+  background-color: rgb(178, 208, 209);
+  cursor: url('./images2/candy.jfif.jfif'),auto;
+}
+#bio {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+#info {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+#contact {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  position: absolute;
+  top: 250px;
+  right: 20px;
+}
+.hobbies {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  position: absolute;
+  top: 250px;
+  right: 20px;
+}
+.skills {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  position: absolute;
+  top: 250px;
+  right: 20px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
