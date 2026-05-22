@@ -27,6 +27,22 @@ body {
   background-color: rgb(178, 208, 209);
   margin:0;
   padding:0;
+  text-align: center;
+}
+.hire{
+  color: black;
+  background-color: cadetblue;
+  width: 100px;
+  height: 60px;
+  justify-content: center;
+}
+.projects{
+  display:block;
+}
+.rows{
+  display:flex;
+  gap:20px;
+  justify-content: center;
 }
 nav{
   display:flex;
@@ -46,6 +62,7 @@ nav ul{
   text-align: center;
   margin-bottom:150px;
 }
+
 #bio {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
@@ -113,4 +130,10 @@ p{
 }
 .fa-react{
   font-size:400%;
+}
+.fa-github{
+  font-size:200%;
+}
+.fa-link{
+  font-size:200%;
 }
